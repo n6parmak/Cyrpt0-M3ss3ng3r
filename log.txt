@@ -1,6 +1,0 @@
-AES KEY : 6HdBtyVTa9rHiC46980z8Q==
-DES KEY : g4+r7MFKYsc=
-AES IV : TQ/iDSD2A8phOmBG48tyJA==
-DES IV : 4XPefFh+dwM=
-<zeyno> : TQ/iDSD2A8phOmBG48tyJETCozzygioTgrQuY2do37o=
-<fatma> : TQ/iDSD2A8phOmBG48tyJETCozzygioTgrQuY2do37o=
